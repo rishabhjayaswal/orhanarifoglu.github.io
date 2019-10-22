@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://sourcerer.io/orhanarifoglu
 
-url: https://orhanarifoglu.github.io/
+url: http://orhanarifoglu.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
